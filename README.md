@@ -7,10 +7,7 @@ Adventour is an open-source project; we welcome you to explore its codebase and 
 
 -**Unzip and Explore:** Download the provided `.zip file`, extract the contents, and open `index.html` in the web browser of choice to experience Adventour firsthand.
 
-<div align="center">
-  <br />
-  <a href="https://iamit010.github.io/adventour-tourism-website/"><strong>➥ Live Demo</strong></a>
-</div>
+
 
 ## Screeshot
 
